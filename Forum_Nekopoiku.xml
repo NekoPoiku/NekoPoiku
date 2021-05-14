@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Chat Box</title>
+<style>
+body{
+margin:0;
+padding:0;
+}
+.box{
+width:100%;
+height:100vh;
+overflow:hidden;
+}
+</style>
+</head>
+
+<body>
+<div class="box">
+<!-- KODE EMBED CHATANGO SIMPAN DI BAWAH INI -->
+<script id="cid0020000281950105135" data-cfasync="false" async src="//st.chatango.com/js/gz/emb.js" style="width: 100%;height: 100%;">{"handle":"forum-nekopoiku","arch":"js","styles":{"a":"cc0000","b":100,"c":"ffffff","d":"ffffff","e":"000000","g":"ffffff","h":"ffffff","k":"cc0000","l":"ffffff","m":"CC0000","n":"FFFFFF","p":"10","q":"000000","r":100,"sba":0}}</script>
+</div>
+</body>
+</html>
